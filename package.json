@@ -1,0 +1,9 @@
+{
+    "name": "klout-api-node"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+       "request" : "=2.9.100"
+  }
+  , "main": "./index.js"
+}
