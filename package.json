@@ -1,7 +1,7 @@
 {
     "name": "klout-api-node"
   , "version": "0.0.1"
-  , "private": true
+  , "private": false 
   , "dependencies": {
        "request" : "=2.9.100"
   }
