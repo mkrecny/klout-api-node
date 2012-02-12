@@ -1,0 +1,2 @@
+1. Batched querying should happen in this module
+   not in influence-graph
