@@ -1,7 +1,7 @@
 var klout = require('../index.js')('ss7nn7ehm33cxga6ppp3jubx');
 
 var params = {
-  users : 'mkrecny,sztul'
+  users : ['mkrecny','sztul']
 };
 
 klout.topics(params, function(e, data){
